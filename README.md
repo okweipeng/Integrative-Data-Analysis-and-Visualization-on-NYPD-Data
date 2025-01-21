@@ -89,9 +89,7 @@ The goal is to uncover trends and patterns in arrests through **data visualizati
 
 ## **Source of Data**
 
-https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/data
-
-(Note: when the data was used most up to date was up to 
+https://catalog.data.gov/dataset/nypd-arrest-data-year-to-date
 
 ---
 
